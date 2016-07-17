@@ -2,12 +2,7 @@
   "name": "react-translate",
   "version": "3.0.4",
   "description": "react utilities for simple i18n",
-  "main": "./lib/index.js",
-  "files": [
-    "README.md",
-    "LICENSE",
-    "lib"
-  ],
+  "main": "./src/index.js",
   "devDependencies": {
     "babel": "^5.8.29",
     "babel-core": "^5.8.30",
